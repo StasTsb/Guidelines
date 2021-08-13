@@ -1,1 +1,17 @@
-1.Zero
+____________Android Guidelines_____________
+                                                                                                                                           1.БЕЗОПАСНОСТЬ
+
+1. Visual experience
+1.1.1 
+
+2. Functionality
+
+3. Perfomance and stability
+
+4.Privacy & security
+
+5.Google play
+
+6.Setting up a test environment
+
+7.Test procedures
